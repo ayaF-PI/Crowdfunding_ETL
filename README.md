@@ -33,10 +33,13 @@ Resources/
 # Database Structure
 The database consists of the following tables:
 
-Category: Stores campaign categories.
-Subcategory: Stores campaign subcategories.
-Campaign: Stores details about each crowdfunding campaign.
-Contacts: Stores contact information for campaign organizers.
+*Category: Stores campaign categories.
+
+*Subcategory: Stores campaign subcategories.
+
+*Campaign: Stores details about each crowdfunding campaign.
+
+*Contacts: Stores contact information for campaign organizers.
 
 
 # ERD (Entity Relationship Diagram)
