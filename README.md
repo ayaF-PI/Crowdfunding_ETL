@@ -5,11 +5,20 @@
 This project demonstrates the process of building an ETL (Extract, Transform, Load) pipeline. The pipeline processes crowdfunding data from Excel files, transforms it, and loads it into a PostgreSQL database.
 
 # Files in the Repository
-Resources/
+
+1-Aya_Paul_project2_result/:
+*Database_Results/: Folder containing the database query results.
+
+*crowdfunding_db_schema.sql: SQL schema for creating the database tables.
+
+*ERD.png: Entity Relationship Diagram for the database schema.
+
+*ETL_Mini_Project_AyaFakhri_PaulCastaldo.ipynb: Jupyter notebook containing the code for the ETL process.
 
 
+
+2-Resources/:
 *category.csv: Contains categories of crowdfunding campaigns.
-
 
 *subcategory.csv: Contains subcategories of crowdfunding campaigns.
 
@@ -21,13 +30,9 @@ Resources/
 
 *crowdfunding.xlsx: Original Excel file with campaign data.
 
-*crowdfunding_db_schema.sql: SQL schema for creating the database tables.
 
-*ERD.png: Entity Relationship Diagram for the database schema.
 
-*ETL_Mini_Project_AyaFakhri_PaulCastaldo.ipynb: Jupyter notebook containing the code for the ETL process.
-
-*README.md: Project documentation .
+3-README.md: Project documentation .
 
 
 # Database Structure
