@@ -64,6 +64,18 @@ The database consists of the following tables:
 # ERD (Entity Relationship Diagram)
 The database structure is visually represented in the ERD diagram.
 
+# Division of Work
+### ETL_Mini_Project_AyaFakhri_PaulCastaldo.ipynb
+* Part 1:
+  - Cells 1-9: Aya + Paul
+  - Cells 10-13: Aya
+* Part 2:
+  - Aya
+* Part 3:
+  - Paul
+* Part 4:
+  - Aya + Paul
+
 
 
 # License
